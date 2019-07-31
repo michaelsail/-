@@ -11,6 +11,7 @@ module.exports = {
         collapsable: true,
         children: [
           '/native/CssClass6.md',
+          '/native/eslint 和 stylelint 集成说明文档.md',
         ]
       }
     ]
