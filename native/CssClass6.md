@@ -220,5 +220,28 @@ changeStatus(id, status) {
 ```
 
 
+## CSS 编写顺序
 
+```javascript
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
 
+  display: block;
+  float: right;
+  width: 100px;
+  height: 100px;
+
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+  line-height: 1.5;
+  text-align: center;
+
+  font: normal 13px "Helvetica Neue", sans-serif;
+  color: #333;
+  background-color: #f5f5f5;
+  opacity: 1;
+```
