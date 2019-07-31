@@ -145,7 +145,7 @@ props: {
     - computed
     - created
     - mounted
-    - metods
+    - methods
     - filters
     - watch
 ```
