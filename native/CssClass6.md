@@ -7,8 +7,8 @@
 命名方法：<b>驼峰命名法</b>
 
 ```javascript
-const myName = "我的名字";
-const names = [];
+let myName = "我的名字";
+let names = [];
 ```
 
 ### 常量命名规范
