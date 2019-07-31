@@ -12,6 +12,7 @@ module.exports = {
         children: [
           '/native/CssClass6.md',
           '/native/eslint 和 stylelint 集成说明文档.md',
+          '/native/编辑器及插件规范.md',
         ]
       }
     ]
